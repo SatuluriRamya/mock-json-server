@@ -19,6 +19,8 @@
   "postalAddresses": {
     "city": "dfh",
     "country": "fdhgdf",
-    "street": "dfdfh"
+    "street": "dfdfh",
+    "plz":"15746"
   }
+  
 }
