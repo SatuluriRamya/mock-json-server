@@ -15,26 +15,5 @@
         "fax": "TRUE"
     },
     "registrations": [],
-    "approvals": [],
-    "objections": [],
-    "locks": [],
-    "lastName": "hjkghjk",
-    "firstName": "hjkfk",
-    "salutation": "Frau",
-    "salutationExternalKey": "2",
-    "academicTitle": "Prof.",
-    "peerage": "Gräfin",
-    "nameAffix": null,
-    "birthdate": "",
-    "nationality": null,
-    "nationalityExternalKey": null,
-    "maritalStatus": "unbekannt",
-    "maritalStatusKey": "0",
-    "gender": "weiblich",
-    "genderKey": "2",
-    "genderExternalKey": "W",
-    "dateOfDeath": null,
-    "employee": false,
-    "profession": null,
-    "professionExternalKey": null
+ 
 }
