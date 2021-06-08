@@ -1,13 +1,13 @@
 {
-  "id": "QjAwMDAwMDAwMTY4NzEwNA",
+  "id": "QcvbcvbghlgkljAwMDAwMTY4NzEwNA",
     "sector": null,
     "sectorExternalKey": null,
     "sorKey": {
-        "PAID": "B000000001687104",
-        "VNR": "175083"
+        "PAID": "bjghjhgjhgj",
+        "VNR": "ghkghkkkghk"
     },
     "uwg": {
-        "lastChanged": "2021-02-12T08:39:47.983+0000",
+        "lastChanged": "",
         "letter": "UNDEFINED",
         "phone": "TRUE",
         "mail": "TRUE",
@@ -18,14 +18,14 @@
     "approvals": [],
     "objections": [],
     "locks": [],
-    "lastName": "Abnahmetest Vwb",
-    "firstName": "Marion",
+    "lastName": "hjkghjk",
+    "firstName": "hjkfk",
     "salutation": "Frau",
     "salutationExternalKey": "2",
     "academicTitle": "Prof.",
     "peerage": "Gräfin",
     "nameAffix": null,
-    "birthdate": "1975-07-22",
+    "birthdate": "",
     "nationality": null,
     "nationalityExternalKey": null,
     "maritalStatus": "unbekannt",
