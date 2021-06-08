@@ -1,18 +1,11 @@
 {
-  "id": "QnDAwMTY4NzEwNA",
-    "shkhjkector": null,
-    "sectorEhjkhjkxternalKey": null,
-    "shjkjhkjkorKey": {
-        "PAhjID": "bjghjhgjhgj",
-        "VhjkhkNR": "ghkghkkkghk"
-    },
-    "hjkhjkhj": {
-        "lastChjkhhanged": "",
-        "letthjker": "UNDEFINED",
-        "phone": "TRUE",
-        "mhjkail": "TRUE",
-        "sms": "TRUE",
-        "fax": "TRUE"
-    },
-    "registrahjkhkhjktions": []
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
