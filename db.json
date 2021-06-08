@@ -1,12 +1,14 @@
 {
-  "posts": [
+  "naturalPersons": [
     {
       "id": 1,
-      "title": "hello"
+      "firstName": "hello",
+      "lastName": "SII"
     },
     {
       "id": 2,
-      "title": "hi"
+      "firstName": "vhello",
+      "lastName": "vSII"
     }
   ],
   "profile": {
