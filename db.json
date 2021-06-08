@@ -11,8 +11,14 @@
       "lastName": "vSII"
     }
   ],
-  "profile": {
+  "communicatioAddresses": {
     "name": "typicode",
-    "telephone": "0231875664"
+    "telephone": "0231875664",
+    "email": "fdgdfsf.sdfgfsdg@fdgdf.com"
+  },
+  "postalAddresses": {
+    "city": "dfh",
+    "country": "fdhgdf",
+    "street": "dfdfh"
   }
 }
